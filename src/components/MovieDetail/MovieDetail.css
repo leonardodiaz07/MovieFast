@@ -1,0 +1,25 @@
+.movieDetail_card{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+    background-color: rgb(46, 68, 72);
+    margin: 10px;
+}
+
+.imgPoster{
+    width: 400px;
+}
+
+
+.movieDetail_title{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+}
+
+.movieDetail_overview{
+    font-size: 25px;
+    text-align: center;
+         color: rgb(255, 255, 255);
+}
